@@ -1,6 +1,6 @@
 import java.util.Scanner;
-public class ConversorMedidas {
-
+public class ConversorMedidas
+   {
     public static double metrosParaQuilometros(double metros) {
         return metros / 1000;
     }
